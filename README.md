@@ -5,7 +5,7 @@ https://www.figma.com/file/l9MEe0lCMSMmksBcSAlwQp/Untitled?node-id=1%3A67&t=rLgi
 Prototipo Navegavel:
 https://www.figma.com/proto/l9MEe0lCMSMmksBcSAlwQp/Desafio-Dio---Thifanny-Celine?page-id=9%3A1192&node-id=9-1192&viewport=588%2C863%2C0.54&scaling=min-zoom&starting-point-node-id=9%3A1918
 
-Sobre o App: Aplicativo Emplois, para os usuarios que buscam empregos.
+Sobre o App: Aplicativo Emplois, para todes que buscam emprego.
 
 ## 1 Wireframe de média fidelidade
 
