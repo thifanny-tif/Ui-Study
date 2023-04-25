@@ -2,6 +2,8 @@
 Estudo de Ui - Desafio DIO
 FIGMA
 https://www.figma.com/file/l9MEe0lCMSMmksBcSAlwQp/Untitled?node-id=1%3A67&t=rLgiIycu0VC9YVsc-1
+Prototipo Navegavel:
+https://www.figma.com/proto/l9MEe0lCMSMmksBcSAlwQp/Desafio-Dio---Thifanny-Celine?page-id=9%3A1192&node-id=9-1192&viewport=588%2C863%2C0.54&scaling=min-zoom&starting-point-node-id=9%3A1918
 
 ## 1 Wireframe de média fidelidade
 
@@ -43,6 +45,7 @@ Bons estudos!
 
 
 ## 3 Criando Prototipo Navegavel
+https://www.figma.com/proto/l9MEe0lCMSMmksBcSAlwQp/Desafio-Dio---Thifanny-Celine?page-id=9%3A1192&node-id=9-1192&viewport=588%2C863%2C0.54&scaling=min-zoom&starting-point-node-id=9%3A1918
 
 Entendendo o Desafio
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
